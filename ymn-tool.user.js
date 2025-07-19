@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YMN Auto + 90s Countdown
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Auto Get Code YMN By Api
 // @author       DuckXKurumi
 // @match        https://yeumoney.com/*
