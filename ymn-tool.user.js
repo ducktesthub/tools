@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         YMN Auto
+// @name         YMN Tool - V2
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      2
 // @description  Auto Get Code YMN By Api
 // @author       DuckXKurumi
 // @match        https://yeumoney.com/*
