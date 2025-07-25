@@ -7,7 +7,6 @@
 // @match        https://yeumoney.com/*
 // @downloadURL   https://raw.githubusercontent.com/ducktesthub/tools/main/ymn-tool.user.js
 // @updateURL     https://github.com/ducktesthub/tools/raw/refs/heads/main/ymn-tool.user.js
-// @homepageURL   https://voltar.lol
 // @icon          https://bom.so/tDGak6
 // @grant        GM_addStyle
 // ==/UserScript==
